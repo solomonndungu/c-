@@ -1,0 +1,30 @@
+/Users/solondungu/Projects/Strings1/Strings1/bin/Debug/net7.0/Strings1
+/Users/solondungu/Projects/Strings1/Strings1/bin/Debug/net7.0/Strings1.deps.json
+/Users/solondungu/Projects/Strings1/Strings1/bin/Debug/net7.0/Strings1.runtimeconfig.json
+/Users/solondungu/Projects/Strings1/Strings1/bin/Debug/net7.0/Strings1.dll
+/Users/solondungu/Projects/Strings1/Strings1/bin/Debug/net7.0/Strings1.pdb
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.AssemblyInfo.cs
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.dll
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/refint/Strings1.dll
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.pdb
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/Strings1.genruntimeconfig.cache
+/Users/solondungu/Projects/Strings1/Strings1/obj/Debug/net7.0/ref/Strings1.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/bin/Debug/net7.0/Strings1
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/bin/Debug/net7.0/Strings1.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/bin/Debug/net7.0/Strings1.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/bin/Debug/net7.0/Strings1.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/bin/Debug/net7.0/Strings1.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/refint/Strings1.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/Strings1.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Strings1/Strings1/obj/Debug/net7.0/ref/Strings1.dll

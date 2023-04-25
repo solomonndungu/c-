@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/bin/Debug/net7.0/Conditional Operator
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/bin/Debug/net7.0/Conditional Operator.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/bin/Debug/net7.0/Conditional Operator.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/bin/Debug/net7.0/Conditional Operator.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/bin/Debug/net7.0/Conditional Operator.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/refint/Conditional Operator.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/Conditional Operator.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Conditional Operator/Conditional Operator/obj/Debug/net7.0/ref/Conditional Operator.dll

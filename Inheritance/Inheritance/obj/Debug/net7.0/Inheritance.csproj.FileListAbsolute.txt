@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Inheritance/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

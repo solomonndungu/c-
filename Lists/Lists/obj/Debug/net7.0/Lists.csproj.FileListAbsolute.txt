@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.AssemblyInfo.cs
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Lists/Lists/bin/Debug/net7.0/Lists
+/Users/solondungu/Projects/Lists/Lists/bin/Debug/net7.0/Lists.deps.json
+/Users/solondungu/Projects/Lists/Lists/bin/Debug/net7.0/Lists.runtimeconfig.json
+/Users/solondungu/Projects/Lists/Lists/bin/Debug/net7.0/Lists.dll
+/Users/solondungu/Projects/Lists/Lists/bin/Debug/net7.0/Lists.pdb
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.dll
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/refint/Lists.dll
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.pdb
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/Lists.genruntimeconfig.cache
+/Users/solondungu/Projects/Lists/Lists/obj/Debug/net7.0/ref/Lists.dll

@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/solondungu/Projects/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/solondungu/Projects/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/solondungu/Projects/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/solondungu/Projects/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/solondungu/Projects/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll

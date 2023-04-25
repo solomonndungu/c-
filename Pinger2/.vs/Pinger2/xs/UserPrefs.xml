@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{0688B23D-96A9-4FF9-9E98-832976B0CB28}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pinger2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pinger2/PingService.cs">
+    <Files>
+      <File FileName="Pinger2/Program.cs" Line="4" Column="1" />
+      <File FileName="Pinger2/PingService.cs" Line="25" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pinger2" expanded="True" selected="True">
+            <Node name="Pinger2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

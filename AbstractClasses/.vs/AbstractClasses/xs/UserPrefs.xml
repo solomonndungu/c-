@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7F97C41E-F3F0-4B9C-8C7C-78AFE7F464CC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClasses/Program.cs">
+    <Files>
+      <File FileName="AbstractClasses/Program.cs" Line="9" Column="40" />
+      <File FileName="AbstractClasses/Ping.cs" Line="12" Column="1" />
+      <File FileName="AbstractClasses/PingIPV6.cs" Line="10" Column="5" />
+      <File FileName="AbstractClasses/BasePing.cs" Line="20" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractClasses" expanded="True" selected="True">
+            <Node name="AbstractClasses" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractClasses PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

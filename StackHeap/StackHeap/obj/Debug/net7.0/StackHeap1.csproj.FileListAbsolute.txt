@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/StackHeap/StackHeap/bin/Debug/net7.0/StackHeap1
+/Users/solondungu/Projects/StackHeap/StackHeap/bin/Debug/net7.0/StackHeap1.deps.json
+/Users/solondungu/Projects/StackHeap/StackHeap/bin/Debug/net7.0/StackHeap1.runtimeconfig.json
+/Users/solondungu/Projects/StackHeap/StackHeap/bin/Debug/net7.0/StackHeap1.dll
+/Users/solondungu/Projects/StackHeap/StackHeap/bin/Debug/net7.0/StackHeap1.pdb
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.AssemblyInfo.cs
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.dll
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/refint/StackHeap1.dll
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.pdb
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/StackHeap1.genruntimeconfig.cache
+/Users/solondungu/Projects/StackHeap/StackHeap/obj/Debug/net7.0/ref/StackHeap1.dll

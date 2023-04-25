@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{58E90A16-9666-4541-9B8B-F9F9BACC5AFF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeCasting/Program.cs">
+    <Files>
+      <File FileName="TypeCasting/Program.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TypeCasting" expanded="True" selected="True">
+            <Node name="TypeCasting" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TypeCasting PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

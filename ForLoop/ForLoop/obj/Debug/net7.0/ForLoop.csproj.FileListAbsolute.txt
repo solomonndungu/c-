@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/ForLoop/ForLoop/bin/Debug/net7.0/ForLoop
+/Users/solondungu/Projects/ForLoop/ForLoop/bin/Debug/net7.0/ForLoop.deps.json
+/Users/solondungu/Projects/ForLoop/ForLoop/bin/Debug/net7.0/ForLoop.runtimeconfig.json
+/Users/solondungu/Projects/ForLoop/ForLoop/bin/Debug/net7.0/ForLoop.dll
+/Users/solondungu/Projects/ForLoop/ForLoop/bin/Debug/net7.0/ForLoop.pdb
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.AssemblyInfo.cs
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.dll
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/refint/ForLoop.dll
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.pdb
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ForLoop.genruntimeconfig.cache
+/Users/solondungu/Projects/ForLoop/ForLoop/obj/Debug/net7.0/ref/ForLoop.dll

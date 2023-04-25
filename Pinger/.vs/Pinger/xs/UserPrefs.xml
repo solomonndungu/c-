@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{ECDB9089-BB6E-406A-AB9A-923673DE6D18}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pinger/Program.cs">
+    <Files>
+      <File FileName="Pinger/Program.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pinger" expanded="True" selected="True">
+            <Node name="Pinger" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Pinger PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

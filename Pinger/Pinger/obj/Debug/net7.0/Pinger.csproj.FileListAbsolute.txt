@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Pinger/Pinger/bin/Debug/net7.0/Pinger
+/Users/solondungu/Projects/Pinger/Pinger/bin/Debug/net7.0/Pinger.deps.json
+/Users/solondungu/Projects/Pinger/Pinger/bin/Debug/net7.0/Pinger.runtimeconfig.json
+/Users/solondungu/Projects/Pinger/Pinger/bin/Debug/net7.0/Pinger.dll
+/Users/solondungu/Projects/Pinger/Pinger/bin/Debug/net7.0/Pinger.pdb
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.AssemblyInfo.cs
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.dll
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/refint/Pinger.dll
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.pdb
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/Pinger.genruntimeconfig.cache
+/Users/solondungu/Projects/Pinger/Pinger/obj/Debug/net7.0/ref/Pinger.dll

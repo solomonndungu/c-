@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{EEA9DF2E-73FF-4289-A7B5-02EE21EBC2CA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldTutorial/Program.cs">
+    <Files>
+      <File FileName="HelloWorldTutorial/Program.cs" Line="33" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorldTutorial" expanded="True" selected="True">
+            <Node name="HelloWorldTutorial" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

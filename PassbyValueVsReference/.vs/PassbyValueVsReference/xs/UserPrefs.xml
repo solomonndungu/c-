@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{673A8FFF-288E-4B45-97ED-983F9F962835}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassbyValueVsReference/Value.cs">
+    <Files>
+      <File FileName="PassbyValueVsReference/Program.cs" Line="12" Column="41" />
+      <File FileName="PassbyValueVsReference/Value.cs" Line="1" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassbyValueVsReference" expanded="True">
+            <Node name="PassbyValueVsReference" expanded="True">
+              <Node name="Value.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PassbyValueVsReference PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

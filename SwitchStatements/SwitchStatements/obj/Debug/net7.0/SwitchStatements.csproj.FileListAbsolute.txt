@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/bin/Debug/net7.0/SwitchStatements
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/bin/Debug/net7.0/SwitchStatements.deps.json
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/bin/Debug/net7.0/SwitchStatements.runtimeconfig.json
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/bin/Debug/net7.0/SwitchStatements.dll
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/bin/Debug/net7.0/SwitchStatements.pdb
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.AssemblyInfo.cs
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.dll
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/refint/SwitchStatements.dll
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.pdb
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/SwitchStatements.genruntimeconfig.cache
+/Users/solondungu/Projects/SwitchStatements/SwitchStatements/obj/Debug/net7.0/ref/SwitchStatements.dll

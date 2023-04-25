@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8FD7301B-F652-4940-BAFF-A7A4363766B4}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/BaseNetworkUtility.cs">
+    <Files>
+      <File FileName="Inheritance/Program.cs" Line="11" Column="13" />
+      <File FileName="Inheritance/Ping.cs" />
+      <File FileName="Inheritance/TCP.cs" />
+      <File FileName="Inheritance/UDP.cs" />
+      <File FileName="Inheritance/BaseNetworkUtility.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance" expanded="True" selected="True">
+            <Node name="Inheritance" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

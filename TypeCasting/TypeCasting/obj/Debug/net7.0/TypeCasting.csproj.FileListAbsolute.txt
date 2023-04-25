@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.AssemblyInfo.cs
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/TypeCasting/TypeCasting/bin/Debug/net7.0/TypeCasting
+/Users/solondungu/Projects/TypeCasting/TypeCasting/bin/Debug/net7.0/TypeCasting.deps.json
+/Users/solondungu/Projects/TypeCasting/TypeCasting/bin/Debug/net7.0/TypeCasting.runtimeconfig.json
+/Users/solondungu/Projects/TypeCasting/TypeCasting/bin/Debug/net7.0/TypeCasting.dll
+/Users/solondungu/Projects/TypeCasting/TypeCasting/bin/Debug/net7.0/TypeCasting.pdb
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.dll
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/refint/TypeCasting.dll
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.pdb
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/TypeCasting.genruntimeconfig.cache
+/Users/solondungu/Projects/TypeCasting/TypeCasting/obj/Debug/net7.0/ref/TypeCasting.dll

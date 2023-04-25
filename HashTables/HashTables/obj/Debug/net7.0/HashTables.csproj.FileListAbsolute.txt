@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/HashTables/HashTables/bin/Debug/net7.0/HashTables
+/Users/solondungu/Projects/HashTables/HashTables/bin/Debug/net7.0/HashTables.deps.json
+/Users/solondungu/Projects/HashTables/HashTables/bin/Debug/net7.0/HashTables.runtimeconfig.json
+/Users/solondungu/Projects/HashTables/HashTables/bin/Debug/net7.0/HashTables.dll
+/Users/solondungu/Projects/HashTables/HashTables/bin/Debug/net7.0/HashTables.pdb
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.AssemblyInfo.cs
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.dll
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/refint/HashTables.dll
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.pdb
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/HashTables.genruntimeconfig.cache
+/Users/solondungu/Projects/HashTables/HashTables/obj/Debug/net7.0/ref/HashTables.dll

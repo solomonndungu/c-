@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Arrays1/Arrays1/bin/Debug/net7.0/Arrays1
+/Users/solondungu/Projects/Arrays1/Arrays1/bin/Debug/net7.0/Arrays1.deps.json
+/Users/solondungu/Projects/Arrays1/Arrays1/bin/Debug/net7.0/Arrays1.runtimeconfig.json
+/Users/solondungu/Projects/Arrays1/Arrays1/bin/Debug/net7.0/Arrays1.dll
+/Users/solondungu/Projects/Arrays1/Arrays1/bin/Debug/net7.0/Arrays1.pdb
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.AssemblyInfo.cs
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.dll
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/refint/Arrays1.dll
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.pdb
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/Arrays1.genruntimeconfig.cache
+/Users/solondungu/Projects/Arrays1/Arrays1/obj/Debug/net7.0/ref/Arrays1.dll

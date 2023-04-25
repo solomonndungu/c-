@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/bin/Debug/net7.0/HelloWorldTutorial
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/bin/Debug/net7.0/HelloWorldTutorial.deps.json
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/bin/Debug/net7.0/HelloWorldTutorial.runtimeconfig.json
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/bin/Debug/net7.0/HelloWorldTutorial.dll
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/bin/Debug/net7.0/HelloWorldTutorial.pdb
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.AssemblyInfo.cs
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.dll
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/refint/HelloWorldTutorial.dll
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.pdb
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/HelloWorldTutorial.genruntimeconfig.cache
+/Users/solondungu/Projects/HelloWorldTutorial/HelloWorldTutorial/obj/Debug/net7.0/ref/HelloWorldTutorial.dll

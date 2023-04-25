@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/bin/Debug/net7.0/AbstractClasses
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/bin/Debug/net7.0/AbstractClasses.deps.json
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/bin/Debug/net7.0/AbstractClasses.runtimeconfig.json
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/bin/Debug/net7.0/AbstractClasses.dll
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/bin/Debug/net7.0/AbstractClasses.pdb
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.AssemblyInfo.cs
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.dll
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/refint/AbstractClasses.dll
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.pdb
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/AbstractClasses.genruntimeconfig.cache
+/Users/solondungu/Projects/AbstractClasses/AbstractClasses/obj/Debug/net7.0/ref/AbstractClasses.dll

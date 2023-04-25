@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/bin/Debug/net7.0/Interfaces.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/refint/Interfaces.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/Interfaces.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Interfaces/Interfaces/obj/Debug/net7.0/ref/Interfaces.dll
