@@ -1,26 +1,23 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Collections;
 
-class GFG
+Hashtable numberNames = new Hashtable();
+numberNames.Add(1, "One");
+numberNames.Add(2, "Two");
+
+foreach(DictionaryEntry de in numberNames)
 {
+    Console.WriteLine("Key: {0}, Value: {1}", de.Key, de.Value);
+}
 
-    // Driver code
-    public static void Main()
-    {
+// Creating a Hashtable using collection-initializer syntax
+var cities = new Hashtable()
+{
+    {"UK", "London, Manchester, Birmingham" },
+    {"USA", "Chicago, New York, Washington" }
+};
 
-        // Creating a HashSet of odd numbers
-        HashSet<int> odd = new HashSet<int>();
-
-        // Inserting elements in HashSet
-        for (int i = 0; i < 5; i++)
-        {
-            odd.Add(2 * i + 1);
-        }
-
-        // Displaying the elements in the HashSet
-        foreach (int i in odd)
-        {
-            Console.WriteLine(i);
-        }
-    }
+foreach(DictionaryEntry de in cities)
+{
+    Console.WriteLine("Key: {0}, Value: {1}", de.Key, de.Value);
 }

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A85271B3-6FEE-4A5B-91B6-62B1EFDE3B12}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swap/Program.cs">
+    <Files>
+      <File FileName="Swap/Program.cs" Line="3" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Swap" expanded="True" selected="True">
+            <Node name="Swap" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Swap FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

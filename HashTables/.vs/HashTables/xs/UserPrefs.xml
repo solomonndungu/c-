@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{2EF7EAE3-9820-43FD-801E-C364357289B3}|Default">
+﻿<Properties StartupConfiguration="{6998CB55-5D59-4483-B3B0-AFE9C5797FAD}|Default">
+  <MonoDevelop.Ide.ItemProperties.HashTables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HashTables/Program.cs">
     <Files>
-      <File FileName="HashTables/Program.cs" Line="19" Column="1" />
+      <File FileName="HashTables/Program.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +19,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.HashTables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

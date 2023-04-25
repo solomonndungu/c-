@@ -1,0 +1,5 @@
+/Users/solondungu/Projects/RemoveDuplicates/RemoveDuplicates/obj/Debug/net7.0/RemoveDuplicates.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/RemoveDuplicates/RemoveDuplicates/obj/Debug/net7.0/RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/RemoveDuplicates/RemoveDuplicates/obj/Debug/net7.0/RemoveDuplicates.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/RemoveDuplicates/RemoveDuplicates/obj/Debug/net7.0/RemoveDuplicates.AssemblyInfo.cs
+/Users/solondungu/Projects/RemoveDuplicates/RemoveDuplicates/obj/Debug/net7.0/RemoveDuplicates.csproj.CoreCompileInputs.cache

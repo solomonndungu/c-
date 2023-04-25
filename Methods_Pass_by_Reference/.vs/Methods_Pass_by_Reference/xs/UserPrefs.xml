@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0C680BFA-56B6-40DF-BB5D-63088B096C7B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Methods_Pass_by_Reference/Program.cs">
+    <Files>
+      <File FileName="Methods_Pass_by_Reference/Program.cs" Line="40" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Methods_Pass_by_Reference" expanded="True" selected="True">
+            <Node name="Methods_Pass_by_Reference" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Methods__Pass__by__Reference FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

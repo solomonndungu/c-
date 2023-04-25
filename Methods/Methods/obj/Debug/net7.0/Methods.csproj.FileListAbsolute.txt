@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Methods/Methods/bin/Debug/net7.0/Methods
+/Users/solondungu/Projects/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/solondungu/Projects/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/solondungu/Projects/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/Users/solondungu/Projects/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/solondungu/Projects/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll

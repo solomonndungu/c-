@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{FF60CEF2-4F9D-4DC7-9875-10C8E905C4AA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RemoveDuplicates/Program.cs">
+    <Files>
+      <File FileName="RemoveDuplicates/Program.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RemoveDuplicates" expanded="True" selected="True">
+            <Node name="RemoveDuplicates" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RemoveDuplicates PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
