@@ -1,0 +1,15 @@
+/Users/solondungu/Projects/Graphs/Graphs/bin/Debug/net7.0/Graphs
+/Users/solondungu/Projects/Graphs/Graphs/bin/Debug/net7.0/Graphs.deps.json
+/Users/solondungu/Projects/Graphs/Graphs/bin/Debug/net7.0/Graphs.runtimeconfig.json
+/Users/solondungu/Projects/Graphs/Graphs/bin/Debug/net7.0/Graphs.dll
+/Users/solondungu/Projects/Graphs/Graphs/bin/Debug/net7.0/Graphs.pdb
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.csproj.AssemblyReference.cache
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.AssemblyInfoInputs.cache
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.AssemblyInfo.cs
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.dll
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/refint/Graphs.dll
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.pdb
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/Graphs.genruntimeconfig.cache
+/Users/solondungu/Projects/Graphs/Graphs/obj/Debug/net7.0/ref/Graphs.dll
