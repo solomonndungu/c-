@@ -1,0 +1,5 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.csproj.CoreCompileInputs.cache
