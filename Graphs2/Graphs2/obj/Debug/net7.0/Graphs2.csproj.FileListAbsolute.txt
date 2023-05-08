@@ -3,3 +3,13 @@
 /Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.AssemblyInfoInputs.cache
 /Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.AssemblyInfo.cs
 /Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/bin/Debug/net7.0/Graphs2
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/bin/Debug/net7.0/Graphs2.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/bin/Debug/net7.0/Graphs2.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/bin/Debug/net7.0/Graphs2.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/bin/Debug/net7.0/Graphs2.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/refint/Graphs2.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/Graphs2.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Graphs2/Graphs2/obj/Debug/net7.0/ref/Graphs2.dll

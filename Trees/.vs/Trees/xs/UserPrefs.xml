@@ -1,21 +1,21 @@
-﻿<Properties StartupConfiguration="{570513EE-8826-4557-96E1-4B6A1739B79C}|Default">
+﻿<Properties StartupConfiguration="{261B66D6-324D-47EC-8490-10BFFD7F3AFF}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Graphs2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Graphs2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trees/Program.cs">
     <Files>
-      <File FileName="Graphs2/Program.cs" Line="52" Column="35" />
+      <File FileName="Trees/Program.cs" Line="40" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Graphs2" expanded="True" selected="True">
-            <Node name="Graphs2" expanded="True" />
+          <Node name="Trees" expanded="True" selected="True">
+            <Node name="Trees" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Trees PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
