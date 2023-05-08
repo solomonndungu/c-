@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{824D14EE-9779-4085-9B18-82696DDBBEBF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryTree2/Program.cs">
+    <Files>
+      <File FileName="BinaryTree2/Program.cs" Line="93" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryTree2" expanded="True" selected="True">
+            <Node name="BinaryTree2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BinaryTree2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
