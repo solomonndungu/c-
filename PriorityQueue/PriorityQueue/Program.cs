@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://www.c-sharpcorner.com/article/new-generic-collection-in-net-6-a-priority-queue/
+
+using System;
 using System.Collections.Generic;
 
 namespace PriorityQueue
