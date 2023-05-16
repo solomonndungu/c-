@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/bin/Debug/net7.0/FirstSession
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/bin/Debug/net7.0/FirstSession.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/bin/Debug/net7.0/FirstSession.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/bin/Debug/net7.0/FirstSession.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/bin/Debug/net7.0/FirstSession.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/refint/FirstSession.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/FirstSession.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/Debug/net7.0/ref/FirstSession.dll
