@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{FC383C8A-9A21-4154-B269-D72AA112BACD}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BinaryHeap FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryHeap/Program.cs">
+    <Files>
+      <File FileName="BinaryHeap/Program.cs" Line="126" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinaryHeap" expanded="True">
+            <Node name="BinaryHeap" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BinaryHeap FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -7,15 +7,13 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="FirstSession/Program.cs">
     <Files>
-      <File FileName="FirstSession/Program.cs" Line="2" Column="26" />
+      <File FileName="FirstSession/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FirstSession" expanded="True">
-            <Node name="FirstSession" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="FirstSession" expanded="True" />
           </Node>
         </State>
       </Pad>

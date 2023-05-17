@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/FirstSession.csproj": {}
+    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/FirstSession/FirstSession/FirstSession.csproj": {}
   },
   "projects": {
-    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/FirstSession.csproj": {
+    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/FirstSession/FirstSession/FirstSession.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/FirstSession.csproj",
+        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/FirstSession/FirstSession/FirstSession.csproj",
         "projectName": "FirstSession",
-        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/FirstSession.csproj",
+        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/FirstSession/FirstSession/FirstSession.csproj",
         "packagesPath": "/Users/solondungu/.nuget/packages/",
-        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/FirstSession/FirstSession/obj/",
+        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/FirstSession/FirstSession/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/solondungu/.nuget/NuGet/NuGet.Config"
