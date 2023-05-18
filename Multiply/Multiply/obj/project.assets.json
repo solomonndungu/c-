@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj",
-      "projectName": "PrimeNumbers",
-      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/PrimeNumbers.csproj",
+      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Multiply/Multiply/Multiply.csproj",
+      "projectName": "Multiply",
+      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Multiply/Multiply/Multiply.csproj",
       "packagesPath": "/Users/solondungu/.nuget/packages/",
-      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/",
+      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/Multiply/Multiply/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/solondungu/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

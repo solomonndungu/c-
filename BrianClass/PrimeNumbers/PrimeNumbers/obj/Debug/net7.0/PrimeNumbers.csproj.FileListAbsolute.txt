@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/bin/Debug/net7.0/PrimeNumbers.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/refint/PrimeNumbers.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/PrimeNumbers.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/PrimeNumbers/PrimeNumbers/obj/Debug/net7.0/ref/PrimeNumbers.dll
