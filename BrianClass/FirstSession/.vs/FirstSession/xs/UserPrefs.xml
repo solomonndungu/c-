@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{95578793-E1A5-4502-BFB4-9EA0077F1599}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FirstSession PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="FirstSession/Program.cs">
     <Files>
-      <File FileName="FirstSession/Program.cs" Line="9" Column="1" />
+      <File FileName="FirstSession/Program.cs" Line="11" Column="1" />
+      <File FileName="FirstSession/2nd project.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FirstSession" expanded="True">
-            <Node name="FirstSession" expanded="True" />
+          <Node name="FirstSession" expanded="True" selected="True">
+            <Node name="FirstSession" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FirstSession PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
