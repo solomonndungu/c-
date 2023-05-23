@@ -1,14 +1,16 @@
 ﻿class LeapYear
 {
-    static bool Main(int Year)
+    public static void Main()
     {
+        Console.WriteLine("Enter Year : ");
+        int Year = Convert.ToInt32(Console.ReadLine());
         if (((Year % 4 == 0) && (Year % 100 != 0)) || (Year % 400 == 0))
         {
-            return true;
+            Console.WriteLine("{0} is a leap year", Year); // return true;
         }
         else
         {
-            return false;
+            Console.WriteLine("{0} is not a leap year", Year);//return false;
         }
     }
 }
