@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{819EF6D4-5267-40FF-835F-DF13273D4BE2}|Default">
-  <MonoDevelop.Ide.ItemProperties.LeapYear FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeapYear/Program.cs">
+    <Files>
+      <File FileName="LeapYear/Program.cs" Line="18" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeapYear" expanded="True">
+            <Node name="LeapYear" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LeapYear PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
 </Properties>
