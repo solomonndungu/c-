@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/bin/Debug/net7.0/LeapYear.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/refint/LeapYear.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/LeapYear.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianClass/LeapYear/LeapYear/obj/Debug/net7.0/ref/LeapYear.dll
