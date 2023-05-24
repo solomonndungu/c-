@@ -43,16 +43,6 @@ public class BaseClass
     private protected int myValue2 = 44;
 }
 
-public class PointTest
-{
-    public int xx;
-    public int yy;
-
-    protected int xy = 123;
-
-    protected internal int myValue1 = 0;
-}
-
 public class BaseClass1
 {
     public static void Main()
@@ -60,13 +50,34 @@ public class BaseClass1
         var p = new PointTest();
 
         // testing the public variable
-        p.xx = 10;
+        p.xxx = 10;
+        Console.WriteLine($"x = {p.xxx}");
 
-        Console.WriteLine($"x = {p.xx}");
+        // Accesses the private variable
+        p.viewyy();
+
+        p.xy;
     }
 }
 
-/* demonstrating a protected class
+public class PointTest
+{
+    public int xxx;
+    private int yy = 6;
+
+    // View value of yy to be accessed by another class
+    public int viewyy()
+    {
+        // Return immutable value
+        return yy;
+    }
+
+    protected int xy = 123;
+
+    protected internal int myValue1 = 0;
+}
+
+ //demonstrating a protected class
 public class BaseClass1 : PointTest
 {
     static void main()
@@ -84,8 +95,53 @@ public class BaseClass1 : PointTest
         derivedObject.myValue1 = 10;
 
         Console.WriteLine($"{derivedObject.myValue1}");
-        /*
+        */
     }
 }
-*/
 
+// Accessors, mutators: resear
+
+namespace School
+{
+    public class Person
+    {
+        public string name;
+        private DateTime dateOfBirth;
+
+        public int Age() {
+           // return Age
+            };
+    }
+
+    public class Teacher : Person
+    {
+        public string tscNumber;
+
+    }
+
+    public class Student : Person
+    {
+        protected int admNumber;
+    }
+
+    public class FormOneStudent : Student
+    {
+        private readonly string streamm = "1Green";
+    }
+
+    public class Masomo
+    {
+        static void Main(string[] args)
+        {
+            FormOneStudent formOneStudent = new FormOneStudent();
+
+            Student student = new Student();
+
+            Teacher teacher = new Teacher();
+
+            Person person = new Person();
+
+
+        }
+    }
+}
