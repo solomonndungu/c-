@@ -109,8 +109,10 @@ namespace School
         private DateTime dateOfBirth;
 
         public int Age() {
-           // return Age
-            };
+            // return Age
+            DateTime now = DateTime.Now;
+            return (now - dateOfBirth).Days/365;
+            }
     }
 
     public class Teacher : Person
@@ -126,7 +128,13 @@ namespace School
 
     public class FormOneStudent : Student
     {
-        private readonly string streamm = "1Green";
+        public readonly string streamm = "1Green";
+
+        public int admissionNumber()
+
+        {
+            return admNumber;
+        }
     }
 
     public class Masomo
@@ -141,6 +149,11 @@ namespace School
 
             Person person = new Person();
 
+            Console.WriteLine("Age is " + formOneStudent.Age());
+
+            Console.WriteLine("stream is" + formOneStudent.streamm );
+
+            Console.WriteLine("admission number is" + formOneStudent.admNumber);
 
         }
     }
