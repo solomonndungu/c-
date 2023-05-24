@@ -1,0 +1,23 @@
+﻿coursera.org/article/types-programming-language
+
+1. Procedural programming languages
+ - Follows a sequence of statements or commands in order to achieve a desired output.
+ - Each series of steps is called a procedure, and a program written in one of these
+   languages will have one or more procedures within it.
+ - e.g C, C++, java, Pascal, BASIC
+
+2. Functional programming languages
+ - Focus on the output of mathematical functions and evaluations.
+ - Each function, a reusable module of code, performs a specific task and returns a result.
+ - e.g Scala, Erlang, Haskell, Elixir, F#
+
+3. Object-oriented programming
+ - Treats a program as a group of object composed of data and program elements, known as
+   attributes and methods.
+ - Objects can be reused within a program or in other programs.
+ - e.g java, python, php, C++, ruby.
+
+4. Scripting languages
+ - Used to automate repetitive tasks, manage dynamic web content, or support processes in
+   larger applications.
+ - e.g php, ruby, python, bash, perl, node.js
