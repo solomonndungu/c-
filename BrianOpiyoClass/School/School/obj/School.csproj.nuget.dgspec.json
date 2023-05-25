@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/School/School.csproj": {}
+    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/School/School.csproj": {}
   },
   "projects": {
-    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj": {
+    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj",
+        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
         "projectName": "Country",
-        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj",
+        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
         "packagesPath": "/Users/solondungu/.nuget/packages/",
-        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/obj/",
+        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/solondungu/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/School/School.csproj": {
+    "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/School/School.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/School/School.csproj",
+        "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/School/School.csproj",
         "projectName": "School",
-        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/School/School.csproj",
+        "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/School/School.csproj",
         "packagesPath": "/Users/solondungu/.nuget/packages/",
-        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/School/obj/",
+        "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/School/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/solondungu/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj": {
-                "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj"
+              "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj": {
+                "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj"
               }
             }
           }

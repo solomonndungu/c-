@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj",
+      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
       "projectName": "Country",
-      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/Country.csproj",
+      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
       "packagesPath": "/Users/solondungu/.nuget/packages/",
-      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/School/Country/obj/",
+      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/solondungu/.nuget/NuGet/NuGet.Config"

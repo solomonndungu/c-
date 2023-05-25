@@ -59,3 +59,19 @@ namespace School
  * a set accessor is considered read-only. A property without a get accessor is considered write-only. 
  * A property that has both accessors is read-write.
  */
+
+
+// Reference a solution scope
+// Research on how to reference assembly and libraries from external sources
+// Overloading and overriding
+
+// overriding multiple implementations
+// overloading different
+
+
+// Differentiate with code: Method overloading, Method overriding using
+// a totally different method (not age)
+
+// Create another assembly and add classes to it. Make assembly Country reference
+// the new assembly. Try to pass down inherited method and properties down to
+// form 1 student.
