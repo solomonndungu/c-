@@ -1,18 +1,12 @@
-﻿namespace Country
+﻿using System;
+using Country;
 
 namespace School
 {
-    public class Person
+    public class Person: Citizen
     {
         public string name;
-        private DateTime dateOfBirth;
 
-        public int Age()
-        {
-            // return Age
-            DateTime now = DateTime.Now;
-            return (now - dateOfBirth).Days / 365;
-        }
     }
 
     public class Teacher : Person
@@ -49,11 +43,12 @@ namespace School
 
             Person person = new Person();
 
+            // Age passes because it is inherited from Citizen project
             Console.WriteLine("Age is " + formOneStudent.Age());
 
             Console.WriteLine("stream is" + formOneStudent.streamm);
 
-            Console.WriteLine("admission number is" + formOneStudent.admNumber);
+            Console.WriteLine("admission number is" + formOneStudent.admissionNumber());
 
         }
     }
