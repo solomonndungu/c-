@@ -53,7 +53,7 @@ namespace School
 
             Console.WriteLine("stream is" + formOneStudent.streamm);
 
-            Console.WriteLine("admission number is" + formOneStudent.admNumber);
+            Console.WriteLine("admission number is" + formOneStudent.admissionNumber());
 
         }
     }
