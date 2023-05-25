@@ -53,3 +53,9 @@ namespace School
         }
     }
 }
+
+/*The code block for the get accessor is executed when the property is read; the code block
+ * for the set accessor is executed when the property is assigned a value. A property without 
+ * a set accessor is considered read-only. A property without a get accessor is considered write-only. 
+ * A property that has both accessors is read-write.
+ */
