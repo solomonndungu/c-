@@ -61,13 +61,14 @@ namespace School
  */
 
 
-// Reference a solution scope
-// Research on how to reference assembly and libraries from external sources
-// Overloading and overriding
 
 // overriding multiple implementations
 // overloading different
 
+
+// Reference a solution scope
+// Research on how to reference assembly and libraries from external sources
+// Overloading and overriding
 
 // Differentiate with code: Method overloading, Method overriding using
 // a totally different method (not age)
@@ -75,3 +76,5 @@ namespace School
 // Create another assembly and add classes to it. Make assembly Country reference
 // the new assembly. Try to pass down inherited method and properties down to
 // form 1 student.
+
+// Accessors and mutators. Explain them and also show how to use it.
