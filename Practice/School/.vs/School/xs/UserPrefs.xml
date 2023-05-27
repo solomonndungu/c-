@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1D9AA50B-77E5-4F00-9D73-F17AC4C30E8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="School/Program.cs">
+    <Files>
+      <File FileName="School/Program.cs" Line="81" Column="1" />
+      <File FileName="Country/Program.cs" Line="23" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="School" expanded="True">
+            <Node name="Country" expanded="True" />
+            <Node name="School" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.School PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Country FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
