@@ -5,11 +5,24 @@
       "Country/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Family": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Country.dll": {}
         },
         "runtime": {
           "bin/placeholder/Country.dll": {}
+        }
+      },
+      "Family/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Family.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Family.dll": {}
         }
       }
     }
@@ -19,6 +32,11 @@
       "type": "project",
       "path": "../Country/Country.csproj",
       "msbuildProject": "../Country/Country.csproj"
+    },
+    "Family/1.0.0": {
+      "type": "project",
+      "path": "../Family/Family.csproj",
+      "msbuildProject": "../Family/Family.csproj"
     }
   },
   "projectFileDependencyGroups": {

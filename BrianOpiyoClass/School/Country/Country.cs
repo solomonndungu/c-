@@ -1,4 +1,5 @@
-﻿namespace Country
+﻿using Family;
+namespace Country
 {
     public class Hustler
     {

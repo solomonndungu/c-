@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Family/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Family.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Family.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Family/1.0.0": {
-      "type": "project",
-      "path": "../Family/Family.csproj",
-      "msbuildProject": "../Family/Family.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Family >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "/Users/solondungu/.nuget/packages/": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
-      "projectName": "Country",
-      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj",
+      "projectUniqueName": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj",
+      "projectName": "Family",
+      "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj",
       "packagesPath": "/Users/solondungu/.nuget/packages/",
-      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/obj/",
+      "outputPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/solondungu/.nuget/NuGet/NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj": {
-              "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
