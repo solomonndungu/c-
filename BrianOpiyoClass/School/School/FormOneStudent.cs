@@ -16,6 +16,12 @@ namespace School
         {
             return "Physics, Biology, Chemistry";
         }
-	}
+
+        // Referencing the new Assembly
+        public string healthy()
+        {
+            return health;
+        }
+    }
 }
 

@@ -5,7 +5,7 @@ namespace Family
 	{
 		public string name;
 
-		protected string health;
+		protected string health = "Top Notch";
 	}
 
 

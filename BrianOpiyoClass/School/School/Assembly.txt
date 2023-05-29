@@ -20,3 +20,8 @@ extern alias GridV2;
 
 Each extern alias declaration introduces an additional root-level namespace that parallels (but does not lie within)
 the global namespace.
+
+
+Method Overloading - means creating multiple methods in a class with the same names but different signatures (Parameters).
+
+It permits a class, struct, or interface to declare multiple methods with the same name with unique signatures.

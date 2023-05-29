@@ -41,7 +41,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Country >= 1.0.0"
+      "Country >= 1.0.0",
+      "Family >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,6 +72,9 @@
           "projectReferences": {
             "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj": {
               "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Country/Country.csproj"
+            },
+            "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj": {
+              "projectPath": "/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/School/Family/Family.csproj"
             }
           }
         }

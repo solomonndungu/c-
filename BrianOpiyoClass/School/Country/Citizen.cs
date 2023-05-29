@@ -1,7 +1,9 @@
 ﻿using System;
+using Family;
 namespace Country
 {
-	public class Citizen
+    // Inheriting from a class in new assembly
+	public class Citizen : Mum
 	{
         private int IdNumber;
 
@@ -25,6 +27,7 @@ namespace Country
         {
             return IdNumber;
         }
+
     }
 }
 

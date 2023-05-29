@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Country\Country.csproj" />
+    <ProjectReference Include="..\Family\Family.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Assembly.txt" />
