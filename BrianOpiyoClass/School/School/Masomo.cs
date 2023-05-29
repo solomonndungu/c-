@@ -23,6 +23,15 @@ namespace School
 
             Console.WriteLine("admission number is" + formOneStudent.admissionNumber());
 
+            // Demonstrating method overloading
+            Console.WriteLine($"Results for programming are: {student.GradeA(67, 83, 72)}");
+            Console.WriteLine($"Results for soft skills are: {student.GradeA(87, 85)}");
+            Console.WriteLine($"Results for Game Theory is: {student.GradeA(69)}");
+
+            // Demonstrating method overriding
+            Console.WriteLine($"Compulsory subjects for a form one student is {formOneStudent.compulsorySciences()}");
+            Console.WriteLine($"Compulsory subjects for any student is {student.compulsorySciences()}");
+
         }
     }
 }

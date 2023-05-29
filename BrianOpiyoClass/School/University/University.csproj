@@ -7,13 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Country\Country.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Remove="Assembly.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Assembly.txt" />
-  </ItemGroup>
 </Project>

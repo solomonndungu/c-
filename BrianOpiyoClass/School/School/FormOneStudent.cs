@@ -5,11 +5,17 @@ namespace School
 	{
 		public readonly string streamm = "1Green";
 
-    public int admissionNumber()
+        public int admissionNumber()
 
-    {
-        return admNumber;
-    }
-}
+        {
+            return admNumber;
+        }
+
+        // Method overriding
+        public override string compulsorySciences()
+        {
+            return "Physics, Biology, Chemistry";
+        }
+	}
 }
 

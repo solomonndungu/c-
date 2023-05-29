@@ -1,4 +1,6 @@
 ﻿<Properties StartupConfiguration="{1D9AA50B-77E5-4F00-9D73-F17AC4C30E8A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.University FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="School/Program.cs">
     <Files>
       <File FileName="School/Program.cs" Line="81" Column="1" />
@@ -15,12 +17,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.School PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Country FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>
