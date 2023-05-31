@@ -1,16 +1,32 @@
 ﻿<Properties StartupConfiguration="{1D9AA50B-77E5-4F00-9D73-F17AC4C30E8A}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="School/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Country/Country.cs">
     <Files>
-      <File FileName="School/Program.cs" Line="81" Column="1" />
-      <File FileName="Country/Program.cs" Line="23" Column="43" />
+      <File FileName="School/Program.cs" Line="33" Column="105" />
+      <File FileName="Country/Program.cs" Line="24" Column="20" />
+      <File FileName="School/Person.cs" Line="2" Column="14" />
+      <File FileName="School/Teacher.cs" Line="6" Column="27" />
+      <File FileName="School/Student.cs" Line="9" Column="21" />
+      <File FileName="School/FormOneStudent.cs" Line="24" Column="10" />
+      <File FileName="Country/Citizen.cs" Line="21" Column="1" />
+      <File FileName="Country/Gender.cs" Line="6" Column="40" />
+      <File FileName="Country/Individual.cs" Line="12" Column="10" />
+      <File FileName="Assembly.txt" Line="6" Column="77" />
+      <File FileName="Family/Program.cs" Line="1" Column="1" />
+      <File FileName="Family/Mum.cs" Line="12" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="School" expanded="True">
-            <Node name="Country" expanded="True" />
-            <Node name="School" expanded="True" />
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Country" expanded="True">
+              <Node name="Country.cs" selected="True" />
+            </Node>
+            <Node name="Family" expanded="True" />
+            <Node name="School" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -21,5 +37,7 @@
   <MonoDevelop.Ide.ItemProperties.Family FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
