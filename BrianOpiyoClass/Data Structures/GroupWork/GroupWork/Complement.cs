@@ -4,16 +4,16 @@ namespace GroupWork
 	public class Complement: RemoveDuplicates
 	{
 		// Find two numbers in an array that add up to a target sum
-		public int[] Complements(int[] arr, int target)
+		public int[] Complements(int[] scolar, int target)
 		{
 			// Create a dictionary to store the complement of each element and its index
 			Dictionary<int, int> numDict = new Dictionary<int, int>();
 
 			// Iterate through the array
-			for (int i = 0; i < arr.Length; i++)
+			for (int i = 0; i < scolar.Length; i++)
 			{
 				// Calculate the complement (target minus the current element)
-				int complement = target - arr[i];
+				int complement = target - scolar[i];
 
 				// Check if the complement exists in the dictionary
 				if (numDict.ContainsKey(complement))
@@ -23,7 +23,7 @@ namespace GroupWork
 				}
 
 				// Add the current element to the dictionary with its index as the value
-				numDict[arr[i]] = i;
+				numDict[scolar[i]] = i;
 			}
 
 			// Return null if no two numbers add up to the target sum

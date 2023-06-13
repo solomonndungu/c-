@@ -1,7 +1,7 @@
 ﻿using System;
 namespace GroupWork
 {
-	public class ComplementsToo
+	public class ComplementsToo: RemoveDuplicates
 	{
 		public ComplementsToo()
 		{
@@ -10,7 +10,6 @@ namespace GroupWork
             Dictionary<string, string> FindAdditivesLoop(int[] arrIter, int targetSum)
             {
                 HashSet<int> uniqueArr = new HashSet<int>(arrIter);
-
                 Dictionary<string, string> candidateNums = new Dictionary<string, string>();
 
                 foreach (int i in uniqueArr)

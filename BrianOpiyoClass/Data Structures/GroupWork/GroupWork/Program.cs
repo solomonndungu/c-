@@ -1,24 +1,38 @@
 ﻿namespace GroupWork
 {
 
-    public class Program : RemoveDuplicates
+    public class Program
     {
         public static void Main(string[] args)
         {
             // Define the input array with duplicates
             int[] shemArr = new int[] { 1, 2, 3, 4, 1, 5, 2 };
 
-            // Call the RemoveDuplicates method to remove duplicates from the array
-            int[] uniqueArr = RemoveDuplicate(shemArr);
+            RemoveDuplicates sticaScolar = new RemoveDuplicates();
 
-            // Display Array with no duplicates
-            Console.WriteLine(String.Join(",", uniqueArr));
+            RemoveDuplicatesToo pascalSync = new RemoveDuplicatesToo();
+
+            Complement complement = new Complement();
+
+            Program program = new Program();
+
+            // Scolar results with no duplicates
+            int[] scolar = sticaScolar.RemoveDuplicate(shemArr);
+
+            Console.WriteLine("Scolar results with no duplicates: ");
+            Console.WriteLine(String.Join(",", scolar));
+
+            // Pascal Sync results with no duplicates
+            int[] pascal = pascalSync.RemoveDuplicate(shemArr);
+
+            Console.WriteLine("Pascal Results with no duplicates: ");
+            Console.WriteLine(String.Join(",", pascal));
 
             // Define the target sum
             int target = 7;
 
             // Call the Complements method to find the indices of two numbers that add up to the target sum
-            int[] indices = Complements(uniqueArr, target);
+            int[] indices = complement.Complements(scolar, target);
 
             // Check if indices exist
             if (indices != null)

@@ -3,7 +3,7 @@ namespace GroupWork
 {
 	public class RemoveDuplicates
 	{
-		public int[] RemoveDuplicate(int[] arr)
+		public virtual int[] RemoveDuplicate(int[] shemArr)
 		{
 			// Create a HashSet to track unique elements
 			HashSet<int> set = new HashSet<int>();
@@ -12,7 +12,7 @@ namespace GroupWork
 			List<int> list = new List<int>();
 
 			// Iterate through the array
-			foreach (int i in arr)
+			foreach (int i in shemArr)
 			{
 				// Check if the element is not already in the HashSet
 				if (!set.Contains(i))
@@ -23,7 +23,10 @@ namespace GroupWork
 				}
 			}
 			// Convert the list back to an array and return it
-			return list.ToArray();
+			int[] returnList = list.ToArray();
+
+			//Console.WriteLine($"{returnList}");
+			return returnList;
 		}
 	}
 }

@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/bin/Debug/net7.0/GroupWork
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/bin/Debug/net7.0/GroupWork.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/bin/Debug/net7.0/GroupWork.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/bin/Debug/net7.0/GroupWork.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/bin/Debug/net7.0/GroupWork.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/refint/GroupWork.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/GroupWork.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/GroupWork/GroupWork/obj/Debug/net7.0/ref/GroupWork.dll
