@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/bin/Debug/net6.0/ShemArray
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/bin/Debug/net6.0/ShemArray.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/bin/Debug/net6.0/ShemArray.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/bin/Debug/net6.0/ShemArray.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/bin/Debug/net6.0/ShemArray.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/refint/ShemArray.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ShemArray.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/ShemArray/ShemArray/obj/Debug/net6.0/ref/ShemArray.dll

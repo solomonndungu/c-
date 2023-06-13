@@ -46,3 +46,27 @@ public class Notations
         Console.WriteLine(reversed);
     }
 }
+
+public class Squareee
+{
+    private int side;
+    public Square(int n)
+    {
+        side = n;
+    }
+
+
+    public int Square(int n) => side = n;
+
+    public override int GetArea()
+    {
+        return side * side;
+    }
+}
+
+
+// Read about abstract classes
+
+// Convert.ToInt32
+
+// Read lists (me, Njambi, Edwin), hashset, hashtables
