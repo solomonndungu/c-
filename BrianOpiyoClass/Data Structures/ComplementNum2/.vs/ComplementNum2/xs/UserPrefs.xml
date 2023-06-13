@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{2326A429-B3AB-41EA-B6E9-42388E573B10}|Default">
-  <MonoDevelop.Ide.ItemProperties.ComplementNum2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ComplementNum2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComplementNum2/Program.cs">
+    <Files>
+      <File FileName="ComplementNum2/Program.cs" Line="34" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComplementNum2" expanded="True" selected="True">
+            <Node name="ComplementNum2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
