@@ -14,7 +14,7 @@
 
             Complement complement = new Complement();
 
-            Program program = new Program();
+            ComplementsToo complementToo = new ComplementsToo();
 
             // Scolar results with no duplicates
             int[] scolar = sticaScolar.RemoveDuplicate(shemArr);
@@ -43,7 +43,16 @@
             {
                 Console.WriteLine("No two numbers in the array add up to the target.");
             }
+
+
+            var nums = complementToo.Complements(shemArr, 7);
+
+            foreach (var val in nums)
+            {
+                Console.WriteLine($"{val.Key} at indices {val.Value}");
+             }
         }
     }
+    
 
 }

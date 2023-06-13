@@ -1,10 +1,10 @@
 ﻿using System;
 namespace GroupWork
 {
-	public class Complement: RemoveDuplicates
+	public class Complement
 	{
 		// Find two numbers in an array that add up to a target sum
-		public int[] Complements(int[] scolar, int target)
+		public virtual int[] Complements(int[] scolar, int target)
 		{
 			// Create a dictionary to store the complement of each element and its index
 			Dictionary<int, int> numDict = new Dictionary<int, int>();
