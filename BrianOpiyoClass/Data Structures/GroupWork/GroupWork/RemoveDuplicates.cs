@@ -1,6 +1,7 @@
 ﻿using System;
 namespace GroupWork
 {
+	// Base Class
 	public class RemoveDuplicates
 	{
 		public virtual int[] RemoveDuplicate(int[] shemArr)
