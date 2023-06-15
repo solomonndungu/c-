@@ -16,7 +16,7 @@
                 Console.WriteLine(array[row]);
             }
 
-            var rotatedArray = RotateArray(array, pivot);
+            int[] rotatedArray = RotateArray(array, pivot);
 
             Console.WriteLine(String.Format("\n\nArray After Rotating to Pivot {0} : ", pivot));
             Console.WriteLine("------------------------------------------------ ");
