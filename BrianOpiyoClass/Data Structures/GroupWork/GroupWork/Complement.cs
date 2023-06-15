@@ -28,8 +28,6 @@ namespace GroupWork
 
 			// Return null if no two numbers add up to the target sum
 
-			//int [] sero = new int[] { 0 };
-			//return sero;
 
 			return Array.Empty<int>();
 		}

@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/bin/Debug/net7.0/PivotSearch
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/bin/Debug/net7.0/PivotSearch.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/bin/Debug/net7.0/PivotSearch.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/bin/Debug/net7.0/PivotSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/bin/Debug/net7.0/PivotSearch.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/refint/PivotSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/PivotSearch.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/PivotSearch/PivotSearch/obj/Debug/net7.0/ref/PivotSearch.dll
