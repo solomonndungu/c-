@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/bin/Debug/net7.0/RotatedIndexSearch
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/bin/Debug/net7.0/RotatedIndexSearch.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/bin/Debug/net7.0/RotatedIndexSearch.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/bin/Debug/net7.0/RotatedIndexSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/bin/Debug/net7.0/RotatedIndexSearch.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/refint/RotatedIndexSearch.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/RotatedIndexSearch.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/RotatedIndexSearch/RotatedIndexSearch/obj/Debug/net7.0/ref/RotatedIndexSearch.dll

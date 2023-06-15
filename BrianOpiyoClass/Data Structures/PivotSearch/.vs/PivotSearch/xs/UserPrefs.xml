@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{5C6DFB23-9E47-4EA2-813C-02DA6A5C0314}|Default">
-  <MonoDevelop.Ide.ItemProperties.PivotSearch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PivotSearch PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PivotSearch/Program.cs">
+    <Files>
+      <File FileName="PivotSearch/Program.cs" Line="51" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PivotSearch" expanded="True" selected="True">
+            <Node name="PivotSearch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
