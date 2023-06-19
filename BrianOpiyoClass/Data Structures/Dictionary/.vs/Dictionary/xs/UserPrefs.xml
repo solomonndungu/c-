@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{9AF899EC-4821-4E3A-ACA1-EBA61C1BD4D2}|Default">
-  <MonoDevelop.Ide.ItemProperties.Dictionary FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dictionary/Program.cs">
+    <Files>
+      <File FileName="Dictionary/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dictionary" expanded="True" selected="True">
+            <Node name="Dictionary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Dictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

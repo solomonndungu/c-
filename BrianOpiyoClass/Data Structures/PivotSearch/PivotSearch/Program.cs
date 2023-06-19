@@ -33,7 +33,7 @@
                 throw new Exception("Invalid argument");
 
             // Gets the index of where the pivot will occur
-            pivot = pivot % array.Length;
+            pivot %= array.Length;
 
             //Rotate first half
             array = RotateSubArray(array, 0, pivot - 1);
