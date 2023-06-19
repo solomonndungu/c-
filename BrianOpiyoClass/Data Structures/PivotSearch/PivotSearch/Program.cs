@@ -11,53 +11,22 @@
             Console.WriteLine("Input Array : ");
             Console.WriteLine("------------------------------------------------ ");
 
+            RotatedArray rotatedArray = new RotatedArray();
+
             for (int row = 0; row < array.Length; row++)
             {
                 Console.WriteLine(array[row]);
             }
 
-            int[] rotatedArray = RotateArray(array, pivot);
+            int[] rotatedArrai = rotatedArray.RotateArray(array, pivot);
 
             Console.WriteLine(String.Format("\n\nArray After Rotating to Pivot {0} : ", pivot));
             Console.WriteLine("------------------------------------------------ ");
 
-            for (int row = 0; row < rotatedArray.Length; row++)
+            for (int row = 0; row < rotatedArrai.Length; row++)
             {
-                Console.WriteLine(rotatedArray[row]);
+                Console.WriteLine(rotatedArrai[row]);
             }
-        }
-
-        public static int[] RotateArray(int[] array, int pivot)
-        {
-            if (pivot < 0 || array == null)
-                throw new Exception("Invalid argument");
-
-            // Gets the index of where the pivot will occur
-            pivot %= array.Length;
-
-            //Rotate first half
-            array = RotateSubArray(array, 0, pivot - 1);
-
-            //Rotate second half
-            array = RotateSubArray(array, pivot, array.Length - 1);
-
-            //Rotate all
-            array = RotateSubArray(array, 0, array.Length - 1);
-
-            return array;
-        }
-
-        private static int[] RotateSubArray(int[] subArray, int start, int end)
-        {
-            while (start < end)
-            {
-                int temp = subArray[start];
-                subArray[start] = subArray[end];
-                subArray[end] = temp;
-                start++;
-                end--;
-            }
-            return subArray;
         }
 
     }
