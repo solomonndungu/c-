@@ -29,12 +29,25 @@ public class Program
         {
             Console.WriteLine("Indices of the paired numbers:");
             Console.WriteLine(sumOutput[0]);
+            Console.WriteLine(sumOutput[1]);
+        }
+
+        if (dictValues.Length == 0)
+        {
+            Console.WriteLine("No pair in Dictionary found.");
+        }
+        else
+        {
+            Console.WriteLine();
+            Console.WriteLine("Dictionary Sum Implementation");
+            Console.WriteLine(dictValues[0]);
+            Console.WriteLine(dictValues[1]);
         }
     }
     public static int[] RemoveDuplicates(int[] num)
     {
 
-        HashSet<int> set = new HashSet<int>(num);
+        HashSet<int> set = new(num);
 
         int[] result = new int[set.Count];
 

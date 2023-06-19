@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/bin/Debug/net7.0/Dictionary.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/refint/Dictionary.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/Dictionary.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Dictionary/Dictionary/obj/Debug/net7.0/ref/Dictionary.dll
