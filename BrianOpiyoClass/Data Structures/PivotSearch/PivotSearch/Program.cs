@@ -4,9 +4,9 @@
     {
         public static void Main()
         {
-            int[] array = new int[] { 0, 1, 2, 4, 5, 6, 7 };
+            int[] array = new int[] { 0, 1, 2, 3, 4, 5, 6, 7 };
             // Pivot target is 3
-            int pivot = 3;
+            int pivot = 4;
 
             Console.WriteLine("Input Array : ");
             Console.WriteLine("------------------------------------------------ ");
