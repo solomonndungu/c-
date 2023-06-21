@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/bin/Debug/net7.0/SearchAlgo
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/bin/Debug/net7.0/SearchAlgo.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/bin/Debug/net7.0/SearchAlgo.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/bin/Debug/net7.0/SearchAlgo.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/bin/Debug/net7.0/SearchAlgo.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/refint/SearchAlgo.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/SearchAlgo.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SearchAlgo/SearchAlgo/obj/Debug/net7.0/ref/SearchAlgo.dll

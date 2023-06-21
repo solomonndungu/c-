@@ -6,8 +6,10 @@ namespace SearchAlgo
     {
         public static void Main()
         {
+            // Take value from user input
             int val;
 
+            // Convert the input value to array
             int[] nums = new int[7];
 
             // int currMid; Not Used
@@ -18,12 +20,14 @@ namespace SearchAlgo
             for (val = 0; val < 7; val++)
             {
                 // Store value in an array
+                // Keyboard input is string, so convert to int
                 nums[val] = Convert.ToInt32(Console.ReadLine());
             }
 
             Console.WriteLine("---------------------------------------");
 
-            LogArr logArray = new LogArr();
+            // Object to Instantiate logArr class to be used here
+            LogArr logArray = new();
 
             Console.WriteLine("The numbers you have input are: ");
 
@@ -36,18 +40,23 @@ namespace SearchAlgo
 
             Console.WriteLine("Your target is {0}", target);
 
-            Console.WriteLine("Array after pivoting: ");
+            // Console.WriteLine("Array after pivoting: ");
 
-            Console.WriteLine("---------------------------------------");
+            // Console.WriteLine("---------------------------------------");
 
-            BinarySrch binarySearch = new BinarySrch();
+            // Object to Instantiate BinarySrch class to be used here
+
+            BinarySrch binarySearch = new();
 
             int bnSearch = binarySearch.BinarySearch(nums, target);//currMid
 
-            for (int row = 0; row < bnSearch; row++)
+            if (bnSearch != -1)
             {
-                Console.WriteLine(bnSearch);
+                Console.WriteLine($"Target value found at index: {bnSearch}");
             }
+            else
+                Console.WriteLine("Target value ot found in the array");
+
 
         }
 
