@@ -4,7 +4,7 @@ namespace SearchAlgo
 {
     public class SearchAlgorithm: BinarySrch
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
             // Take value from user input
             int val;

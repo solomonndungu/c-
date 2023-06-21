@@ -1,0 +1,17 @@
+﻿// Identify all other string operations that exist and implement them
+
+
+// Research on extension method and convert the given lines into extension method operated against
+// an integer array
+
+if (nums.Length == 1) // Base case: If the array has only one element
+{
+    if (nums[0] == target)
+        return 0; // Return the index if it matches the target
+    else
+        return -1; // Return -1 if the target is not found
+}
+
+
+
+// Convert line 101 to 115 into extension method returning two halves into dictionary
