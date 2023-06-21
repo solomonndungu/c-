@@ -6,7 +6,7 @@
         {
             int[] array = new int[] { 0, 1, 2, 3, 4, 5, 6, 7 };
             // Pivot target is 3
-            int pivot = 4;
+            int pivot = 3;
 
             Console.WriteLine("Input Array : ");
             Console.WriteLine("------------------------------------------------ ");
@@ -32,3 +32,11 @@
     }
 
 }
+
+// System Requirement: Functional and Non-functional
+// Feasibility
+// Problem statement
+// Solution
+
+// Device Management System
+// Reimbursement (Internet, Insurance cover, cable/charger replacement, transport cost)

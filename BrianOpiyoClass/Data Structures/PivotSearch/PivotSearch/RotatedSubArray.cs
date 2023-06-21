@@ -5,6 +5,7 @@ namespace PivotSearch
 	{
         public int[] RotateSubArray(int[] subArray, int start, int end)
         {
+
             while (start < end)
             {
                 int temp = subArray[start];
@@ -13,6 +14,7 @@ namespace PivotSearch
                 start++;
                 end--;
             }
+
             return subArray;
         }
     }

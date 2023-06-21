@@ -7,22 +7,22 @@ namespace PivotSearch
         {
 
             RotatedSubArray rotatedSubArray = new RotatedSubArray();
-            if (pivot < 0 || array == null)
-                throw new Exception("Invalid argument");
+            if (pivot < 0 || array == null || pivot > array.Length)
+                Console.WriteLine("Invalid argument. Pivot is zero, less than zero, or greater than pivot");
+            else
+                // Gets the index of where the pivot will occur
+                pivot %= array.Length;
 
-            // Gets the index of where the pivot will occur
-            pivot %= array.Length;
+                //Rotate first half
+                array = rotatedSubArray.RotateSubArray(array, 0, pivot - 1);
 
-            //Rotate first half
-            array = rotatedSubArray.RotateSubArray(array, 0, pivot - 1);
+                //Rotate second half
+                array = rotatedSubArray.RotateSubArray(array, pivot, array.Length - 1);
 
-            //Rotate second half
-            array = rotatedSubArray.RotateSubArray(array, pivot, array.Length - 1);
+                //Rotate all
+                array = rotatedSubArray.RotateSubArray(array, 0, array.Length - 1);
 
-            //Rotate all
-            array = rotatedSubArray.RotateSubArray(array, 0, array.Length - 1);
-
-            return array;
+                return array;
         }
     }
 }
