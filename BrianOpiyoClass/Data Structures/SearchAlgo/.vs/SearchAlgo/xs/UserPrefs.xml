@@ -1,14 +1,30 @@
 ﻿<Properties StartupConfiguration="{A6F1234A-A644-4A65-A56F-B196A48C6AE6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SearchAlgo/Program.cs">
-    <Files>
-      <File FileName="SearchAlgo/Program.cs" Line="79" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SearchAlgo PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SearchAlgo PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchAlgo/SearchAlgorithm.cs">
+    <Files>
+      <File FileName="SearchAlgo/Program.cs" Line="24" Column="1" />
+      <File FileName="SearchAlgo/BinarySearch.cs" Line="8" Column="68" />
+      <File FileName="SearchAlgo/MidPnt.cs" Line="9" Column="14" />
+      <File FileName="SearchAlgo/LogArr.cs" Line="9" Column="38" />
+      <File FileName="SearchAlgo/EmptyClass.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SearchAlgo" expanded="True" selected="True">
+            <Node name="SearchAlgo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
