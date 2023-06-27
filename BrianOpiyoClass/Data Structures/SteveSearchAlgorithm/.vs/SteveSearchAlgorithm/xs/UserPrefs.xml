@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{5814CB37-5C96-4C77-A487-230275B4F36E}|Default">
-  <MonoDevelop.Ide.ItemProperties.SteveSearchAlgorithm FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SteveSearchAlgorithm PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SteveSearchAlgorithm" expanded="True">
+            <Node name="SteveSearchAlgorithm">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

@@ -6,20 +6,16 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SearchAlgo/SearchAlgorithm.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SearchAlgo/Assignment.txt">
     <Files>
-      <File FileName="SearchAlgo/Program.cs" Line="24" Column="1" />
-      <File FileName="SearchAlgo/BinarySearch.cs" Line="8" Column="68" />
-      <File FileName="SearchAlgo/MidPnt.cs" Line="9" Column="14" />
+      <File FileName="SearchAlgo/MidPnt.cs" Line="6" Column="1" />
       <File FileName="SearchAlgo/LogArr.cs" Line="9" Column="38" />
-      <File FileName="SearchAlgo/EmptyClass.cs" Line="15" Column="1" />
+      <File FileName="SearchAlgo/Assignment.txt" Line="33" Column="103" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SearchAlgo" expanded="True" selected="True">
-            <Node name="SearchAlgo" expanded="True" />
-          </Node>
+          <Node name="SearchAlgo" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

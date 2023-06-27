@@ -15,3 +15,19 @@ if (nums.Length == 1) // Base case: If the array has only one element
 
 
 // Convert line 101 to 115 into extension method returning two halves into dictionary
+
+
+
+
+
+// Over the weekend, learn about the shortcut commands
+
+// Try executing the method splitArray and CheckSingleElement without calling it against the extended type/class
+// Ensure your code runs
+
+// Copy everything in this code to a new file and use lambda expressions instead of extensions
+// Ensure each file contains only one class. Make sure both programs returns exactly the same results when
+// given the same input
+
+// Bonus point to improve on interactivity of the code, make changes to allow users to enter new arrays without
+//having to stop and start the program. Also give it an exit in case we want to stop running the loop.

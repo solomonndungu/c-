@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/bin/Debug/net7.0/SteveSearchAlgorithms
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/bin/Debug/net7.0/SteveSearchAlgorithms.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/bin/Debug/net7.0/SteveSearchAlgorithms.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/bin/Debug/net7.0/SteveSearchAlgorithms.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/bin/Debug/net7.0/SteveSearchAlgorithms.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/refint/SteveSearchAlgorithms.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/SteveSearchAlgorithms.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/SteveSearchAlgorithms/SteveSearchAlgorithms/obj/Debug/net7.0/ref/SteveSearchAlgorithms.dll
