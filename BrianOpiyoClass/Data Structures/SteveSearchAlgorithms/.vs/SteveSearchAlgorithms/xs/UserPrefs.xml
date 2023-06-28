@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{4CDCCCE1-777A-4156-9245-FEA74920CAB2}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.SteveSearchAlgorithms FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SteveSearchAlgorithms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SteveSearchAlgorithms/BinarySearchProgram.cs">
+    <Files>
+      <File FileName="SteveSearchAlgorithms/Program.cs" Line="18" Column="1" />
+      <File FileName="SteveSearchAlgorithms/MidPoint.cs" Line="6" Column="115" />
+      <File FileName="SteveSearchAlgorithms/LogArray.cs" Line="8" Column="4" />
+      <File FileName="SteveSearchAlgorithms/BinarySearchProgram.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SteveSearchAlgorithms" selected="True">
+            <Node name="SteveSearchAlgorithms" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
