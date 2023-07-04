@@ -3,10 +3,7 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Linq/Program.cs">
     <Files>
-      <File FileName="Linq/Program.cs" Line="31" Column="1" />
-      <File FileName="Linq/Student.cs" Line="10" Column="16" />
-      <File FileName="Linq/Units.cs" Line="8" Column="13" />
-      <File FileName="Linq/Marks.cs" Line="8" Column="8" />
+      <File FileName="Linq/Program.cs" Line="178" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +14,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Linq PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Linq PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
