@@ -8,11 +8,13 @@ namespace linq
         internal int number;
         internal string name;
         internal char gender;
-        public Students(int number, string name, char gender)
+        internal int age;
+        public Students(int number, string name, char gender, int age)
         {
             this.number = number;
             this.name = name;
             this.gender = gender;
+            this.age = age;
         }
 
     }
@@ -53,26 +55,26 @@ namespace linq
         {
             List<Students> students = new List<Students>()
         {
-            new Students (101 , "Solo ", 'M'),
-            new Students(102, "Njambi",'F'),
-            new Students(103, "Gladys", 'M'),
-            new Students(104, "Kasengi", 'F'),
-            new Students(105, "Gladwell", 'M'),
-            new Students(106, "Shem", 'F'),
-            new Students(107, "Karen", 'M'),
-            new Students(108, "Edwin", 'F'),
-            new Students(109, "Scola", 'M'),
-            new Students(110, "Ken", 'F'),
-            new Students(111, "Brian", 'M'),
-            new Students(112, "Steve", 'F'),
-            new Students(113, "Andrew", 'M'),
-            new Students(114, "Julie", 'F'),
-            new Students(115, "Ryan", 'M'),
-            new Students(116, "Mercy", 'F'),
-            new Students(117, "James", 'M'),
-            new Students(118, "Sofia", 'F'),
-            new Students(119, "Benjamin", 'M'),
-            new Students(120, "Ella", 'F')
+            new Students (101 , "Solo", 'M', 23),
+            new Students(102, "Njambi",'F', 22),
+            new Students(103, "Gladys", 'M', 20),
+            new Students(104, "Kasengi", 'F', 19),
+            new Students(105, "Gladwell", 'M', 16),
+            new Students(106, "Shem", 'F', 69),
+            new Students(107, "Karen", 'M', 22),
+            new Students(108, "Edwin", 'F', 25),
+            new Students(109, "Scola", 'M', 17),
+            new Students(110, "Ken", 'F', 24),
+            new Students(111, "YoBrah", 'M', 27),
+            new Students(112, "VoSte", 'F', 26),
+            new Students(113, "Andrew", 'M', 21),
+            new Students(114, "Julie", 'F', 20),
+            new Students(115, "Ryan", 'M', 24),
+            new Students(116, "Mercy", 'F', 22),
+            new Students(117, "James", 'M', 20),
+            new Students(118, "Sofia", 'F', 28),
+            new Students(119, "Benjamin", 'M', 29),
+            new Students(120, "Ella", 'F', 34)
 
 
 
@@ -101,22 +103,33 @@ namespace linq
 
 
         };
-            var studentQuery = (from st in students.Take(9)
-                                join mks in marks
-                                    on st.number equals mks.student_Number
-                                join un in units
-                                    on mks.unit_Number equals un.number
-                                select new
-                                {
-                                    StudentName = st.name,
-                                    StudentNumber = st.number,
-                                    UnitName = un.name,
-                                    UnitScore = mks.Score,
-                                    UnitTutor = un.tutor,
-                                    UnitNumber = un.number,
-                                }); // Use Skip or Take
+            /*  var studentQuery = (from st in students.Take(9)
+                                  join mks in marks
+                                      on st.number equals mks.student_Number
+                                  join un in units
+                                      on mks.unit_Number equals un.number
+                                  select new
+                                  {
+                                      StudentName = st.name,
+                                      StudentNumber = st.number,
+                                      UnitName = un.name,
+                                      UnitScore = mks.Score,
+                                      UnitTutor = un.tutor,
+                                      UnitNumber = un.number,
+                                  }); // Use Skip or Take
 
-            /*var studentquery = (from student in students
+              foreach (var result in studentQuery)
+              {
+                  Console.WriteLine($"Student Name: {result.StudentName}");
+                  Console.WriteLine($"Student Number: {result.StudentNumber}");
+                  Console.WriteLine($"Unit Number: {result.UnitNumber}");
+                  Console.WriteLine($"Unit Score: {result.UnitScore}");
+                  Console.WriteLine($"Unit Name: {result.UnitName}");
+                  Console.WriteLine($"Unit Tutor: {result.UnitTutor}");
+                  Console.WriteLine();
+              }
+            */
+            var studentquery = (from student in students
                                 join mark in marks on student.number equals mark.student_Number
                                 join unit in units on mark.unit_Number equals unit.number
                                 select new
@@ -131,19 +144,29 @@ namespace linq
 
                                 })
                                 .Skip(4)
-                              .Take(16);*/
-            foreach (var result in studentQuery)
+                              .Take(16);
+            foreach (var result in studentquery)
             {
-                Console.WriteLine($"Student Name: {result.StudentName}");
-                Console.WriteLine($"Student Number: {result.StudentNumber}");
-                Console.WriteLine($"Unit Number: {result.UnitNumber}");
-                Console.WriteLine($"Unit Score: {result.UnitScore}");
-                Console.WriteLine($"Unit Name: {result.UnitName}");
-                Console.WriteLine($"Unit Tutor: {result.UnitTutor}");
+                Console.WriteLine($"Student Name: {result.student_name}");
+                Console.WriteLine($"Student Number: {result.student_Number}");
+                Console.WriteLine($"Unit Number: {result.unit_number}");
+                Console.WriteLine($"Unit Score: {result.unit_score}");
+                Console.WriteLine($"Unit Name: {result.unit_name}");
+                Console.WriteLine($"Unit Tutor: {result.unit_tutor}");
                 Console.WriteLine();
             }
 
 
+
+            // LINQ Query Method to return students aged between 20 and 25, excluding students aged 22
+            var studentage = students.Where(s => s.age > 20 && s.age < 25 && s.age != 22).ToList<Students>();
+
+            Console.WriteLine("Students aged between 20 and 25,excluding 22:");
+            //Print the result of the LINQ Method
+            foreach (Students std in studentage)
+            {
+                Console.WriteLine(std.name);
+            }
 
         }
     }

@@ -1,4 +1,22 @@
 ﻿<Properties StartupConfiguration="{DEC95CF0-DA4B-48C9-8BA7-4ED7F5DE443A}|Default">
-  <MonoDevelop.Ide.ItemProperties.VideoGame FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VideoGame PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VideoGame/Program.cs">
+    <Files>
+      <File FileName="VideoGame/Program.cs" Line="21" Column="51" />
+      <File FileName="VideoGame/VideoGames.cs" Line="32" Column="105" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VideoGame" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

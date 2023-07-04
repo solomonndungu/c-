@@ -1,0 +1,15 @@
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.csproj.AssemblyReference.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.AssemblyInfoInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.AssemblyInfo.cs
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.csproj.CoreCompileInputs.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/bin/Debug/net7.0/Linq
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/bin/Debug/net7.0/Linq.deps.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/bin/Debug/net7.0/Linq.runtimeconfig.json
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/bin/Debug/net7.0/Linq.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/bin/Debug/net7.0/Linq.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/refint/Linq.dll
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.pdb
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/Linq.genruntimeconfig.cache
+/Users/solondungu/Library/Mobile Documents/com~apple~CloudDocs/C#/BrianOpiyoClass/Data Structures/Linq/Linq/obj/Debug/net7.0/ref/Linq.dll

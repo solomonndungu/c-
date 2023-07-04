@@ -1,0 +1,11 @@
+﻿Lambda expressions are executable element of LINQ equations that convert logic at runtime to pass to the data source.
+
+Syntax:
+(Input parameters) => Statement block
+
+Async lambdas are lambda expressions that incorporate asynchronous processing using async keyword.
+
+Syntax:
+Func<Task<string>> getWordAsync = async()=> "Simplilearn";
+
+Lambda expressions are anonymous functions that contain expressions or sequence of operators.
