@@ -143,8 +143,8 @@ namespace linq
                                     unit_tutor = unit.tutor,
 
                                 })
-                                .Skip(4)
-                              .Take(16);
+                                .Skip(4) 
+                              .Take(16);// takes 16 info but from unit
             foreach (var result in studentquery)
             {
                 Console.WriteLine($"Student Name: {result.student_name}");
@@ -171,3 +171,9 @@ namespace linq
         }
     }
 }
+
+// Understand constraints of Linq queries
+// Calculate complexity of the code. Also give the notation (O notation)
+// Change the hard-coded list of student into an enjoyable code. Make sure you're creative.
+// Also write a linq expression from the linq query.
+// All the lists we return, let them be exposed by methods within the same type (e.g student inside class student)
