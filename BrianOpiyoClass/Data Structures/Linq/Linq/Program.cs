@@ -172,6 +172,8 @@ namespace linq
     }
 }
 
+
+
 // Understand constraints of Linq queries
 // Calculate complexity of the code. Also give the notation (O notation)
 // Change the hard-coded list of student into an enjoyable code. Make sure you're creative.

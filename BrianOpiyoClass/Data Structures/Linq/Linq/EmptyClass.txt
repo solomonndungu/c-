@@ -1,0 +1,40 @@
+﻿using linq;
+
+var studentquery = studentList
+                            .Join(marks, student => student.number, mark => mark.student_Number, (student, mark) => new { student, mark })
+                             .Join(units, sm => sm.mark.unit_Number, unit => unit.number, (sm, unit) => new
+                             {
+                                 student_name = sm.student.name,
+                                 student_Number = sm.student.number,
+                                 unit_number = sm.mark.unit_Number,
+                                 unit_score = sm.mark.Score,
+                                 unit_name = unit.name,
+                                 unit_tutor = unit.tutor,
+                             });
+
+
+
+Literature Review
+
+Problem Statement
+  Device Management
+
+Feasibility Study
+  Financial : Scope, Cost, Time
+  Technical :
+
+Requirements
+  Functional
+    Inventory Management
+    Asset Allocation
+    Asset Lifecycle
+    User Management: Department designation
+    Corrective Maintenance/Asset Maintenance
+    Asset Tracking
+
+  Non-functional
+
+Proposed Solution
+  Asset Management Platform
+
+Solution Justification

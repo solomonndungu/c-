@@ -1,4 +1,21 @@
 ﻿<Properties StartupConfiguration="{50F06056-E674-4C19-90C7-A56FCAFD3EB8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LinqExpressions FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqExpressions/Program.cs">
+    <Files>
+      <File FileName="LinqExpressions/Program.cs" Line="101" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqExpressions" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinqExpressions PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

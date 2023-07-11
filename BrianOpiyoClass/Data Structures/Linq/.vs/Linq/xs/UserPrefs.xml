@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{18D534E4-DB93-4842-A8B5-D941EA8D0638}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Linq/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Linq/EmptyClass.txt">
     <Files>
-      <File FileName="Linq/Program.cs" Line="178" Column="21" />
+      <File FileName="Linq/Program.cs" Line="181" Column="27" />
+      <File FileName="Linq/EmptyClass.cs" Line="35" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Linq" selected="True" />
+          <Node name="Linq">
+            <Node name="Linq">
+              <Node name="EmptyClass.txt" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
