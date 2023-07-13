@@ -1,0 +1,63 @@
+﻿Entity Citizen:
+Id_Number (PK)
+Dob
+Gender
+Address
+Voter_Registration
+Tax_Number
+
+Entity Person:
+Id_Number (PK, FK - Citizen)
+Name
+
+Entity Student:
+Id_Number (PK, FK - Person)
+Admission_Number
+Grade
+
+Entity Teacher:
+Id_Number (PK, FK - Person)
+Tsc_Number
+
+Here:
+'Id_Number' in the 'Person' entity is both a Primary Key and a Foreign Key referencing the 'Citizen' entity.
+'Id_Number' in the 'Student' entity is both a Primary Key and a Foreign Key referencing the 'Person' entity.
+'Id_Number' in the 'Teacher' entity is both a Primary Key and a Foreign Key referencing the 'Person' entity.
+
+This means that for every 'Student' record, there is a corresponding 'Person' record, and for every 'Person'
+there is a corresponding 'Citizen'.The same applies to entity 'Person'.
+
+
+
+   Citizen
+      |
+    Person
+      /  \
+     /    \
+ Teacher  Student
+
+
+This is a multi-level inheritance where 'Person' is a specialized version of 'Citizen' with 'Student' and 'Teacher'
+being a specialized version of 'Person'.
+
+Using these primary keys and foreign keys in your database schema will ensure that the inheritance relationship between
+entities is maintained.
+
+When it comes to the implementation of these relationships in a relational database, you have three alternatives as per
+stackoverflow.com:
+
+1. Create only a table for the superclass: All attributes and associations of subclasses are moved to the table corresponding
+to the superclass with the possibility of taking a NULL value.
+
+2. Create only tables for the subclasses: All attributes and associations of the superclass are repeated in each subclass.
+
+3. Create tables both for the superclass and for each of the subclasses: In this case, the primary key (PK) of the subclasses
+is also a foreign key (FK) to the superclass. This ensures that all identifiers in a subclass table correspond to an existing
+identifier in the superclass table. A join between both tables allows recovering the full information of the element.
+
+
+Read on T SQL, TL SQL
+Read on Constraints https://www.tutorialspoint.com/sql/sql-constraints.htm#:~:text=Constraints%20are%20the%20rules%20enforced,the%20data%20in%20the%20database.
+Install relationdal database system, preferably mysql. Install database query interface (workbench, heidisql).
+Install heidisql coz it's light.
+Read through database management system, and queries that are there.
