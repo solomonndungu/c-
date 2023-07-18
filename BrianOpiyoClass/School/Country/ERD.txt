@@ -56,8 +56,18 @@ is also a foreign key (FK) to the superclass. This ensures that all identifiers 
 identifier in the superclass table. A join between both tables allows recovering the full information of the element.
 
 
-Read on T SQL, TL SQL
+Read on T SQL, TL SQL https://www.mysqltutorial.org/mysql-basics/
 Read on Constraints https://www.tutorialspoint.com/sql/sql-constraints.htm#:~:text=Constraints%20are%20the%20rules%20enforced,the%20data%20in%20the%20database.
-Install relationdal database system, preferably mysql. Install database query interface (workbench, heidisql).
+Install relational database system, preferably mysql. Install database query interface (workbench, heidisql).
 Install heidisql coz it's light.
 Read through database management system, and queries that are there.
+
+Associative entity -
+
+
+CREATE TABLE students (id INT NOT NULL AUTO_INCREMENT, fuLL_name VARCHAR(40) NOT_NULL, age INT NOT NULL, PRIMARY KEY (id));
+
+age, fullname is not null
+id primary key, auto-increment
+
+DDL - create db/table, alter table, drop table.
