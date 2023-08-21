@@ -20,3 +20,7 @@ namespace Country
         }
     }
 }
+
+// Data - raw facts
+// Structure - skeleton/prototype/model
+// Algorithm - systematic way of doing something

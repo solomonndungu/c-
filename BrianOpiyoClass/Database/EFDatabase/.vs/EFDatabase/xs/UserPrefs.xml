@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{83176EAC-FD02-4605-B0DB-493C33C5A75F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DBModules.SQL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EFDatabase PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

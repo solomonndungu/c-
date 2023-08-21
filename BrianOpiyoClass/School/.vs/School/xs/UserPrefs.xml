@@ -1,34 +1,39 @@
 ﻿<Properties StartupConfiguration="{1D9AA50B-77E5-4F00-9D73-F17AC4C30E8A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Family FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Country FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Country/ERD.txt">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.School FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Country/Country.cs">
     <Files>
-      <File FileName="School/Person.cs" />
-      <File FileName="School/Teacher.cs" />
-      <File FileName="School/Student.cs" Line="9" Column="21" />
-      <File FileName="School/FormOneStudent.cs" />
-      <File FileName="Country/Citizen.cs" />
-      <File FileName="Country/Gender.cs" />
-      <File FileName="Country/Individual.cs" />
-      <File FileName="Family/Mum.cs" />
+      <File FileName="School/Person.cs" Line="1" Column="1" />
+      <File FileName="School/Teacher.cs" Line="1" Column="1" />
+      <File FileName="School/Student.cs" Line="1" Column="1" />
+      <File FileName="School/FormOneStudent.cs" Line="1" Column="1" />
+      <File FileName="Country/Citizen.cs" Line="1" Column="1" />
+      <File FileName="Country/Gender.cs" Line="1" Column="1" />
+      <File FileName="Country/Individual.cs" Line="1" Column="1" />
+      <File FileName="Family/Mum.cs" Line="1" Column="1" />
       <File FileName="School/Assembly.txt" Line="1" Column="1" />
-      <File FileName="Country/ERD.cs" Line="63" Column="69" />
+      <File FileName="Country/ERD.txt" Line="73" Column="20" />
+      <File FileName="Country/Country.cs" Line="26" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="School" expanded="True">
-            <Node name="Country" expanded="True" />
+          <Node name="School">
+            <Node name="Country">
+              <Node name="Country.cs" selected="True" />
+            </Node>
+            <Node name="Family" expanded="True" />
+            <Node name="School" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Country FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Family FirstBuild="True" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.School FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
