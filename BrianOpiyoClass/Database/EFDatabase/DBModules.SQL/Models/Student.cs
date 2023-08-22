@@ -16,4 +16,3 @@ namespace DBModules.SQL.Models
 		public string Address { get; set; }
 	}
 }
-
