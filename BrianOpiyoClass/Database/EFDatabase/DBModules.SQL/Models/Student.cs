@@ -4,7 +4,7 @@ namespace DBModules.SQL.Models
 {
     public class Student
 	{
-		[Key]
+        [Key]
 		public Guid StudentID { get; set; } = Guid.NewGuid();
 
 		[MaxLength(100)]
@@ -14,5 +14,20 @@ namespace DBModules.SQL.Models
 
 		[MaxLength(50)]
 		public string Address { get; set; }
+
+		public int StreamID { get; set; }
+
+		public int SchoolId { get; set; }
 	}
 }
+
+/*
+ * 1. Unit Test
+ * a> DB Connection
+ * b> Data upload to DB.
+ * 
+ * Test database:
+ * sqlite
+ * TDD - test driven development
+ * singleton
+ */

@@ -10,6 +10,8 @@ namespace DBModules.SQL.Models
 
 		[MaxLength(20)]
 		public string StreamName { get; set; }
+
+		public int SchoolId { get; set; }
 	}
 }
 

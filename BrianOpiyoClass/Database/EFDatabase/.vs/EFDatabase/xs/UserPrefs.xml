@@ -1,5 +1,19 @@
 ﻿<Properties StartupConfiguration="{83176EAC-FD02-4605-B0DB-493C33C5A75F}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBModules.SQL/Models/Student.cs">
+    <Files>
+      <File FileName="EFDatabase/Program.cs" />
+      <File FileName="EFDatabase/Startup.cs" />
+      <File FileName="DBModules.SQL/Models/Teacher.cs" />
+      <File FileName="DBModules.SQL/Models/Student.cs" Line="14" Column="1" />
+      <File FileName="DBModules.SQL/Models/Stream.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.DBModules.SQL FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.EFDatabase PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>

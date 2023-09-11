@@ -15,6 +15,10 @@ namespace DBModules.SQL.Models
 		public string SubjectsTaught { get; set; }
 
 		public int GradeLevel { get; set; }
+
+		public int SchoolId { get; set; }
+
+		public int StreamID { get; set; }
 	}
 }
 
