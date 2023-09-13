@@ -18,6 +18,12 @@ namespace DBModules.SQL.Models
 
 		[Range(1, 12)]
 		public int Grade { get; set; }
+
+		[MaxLength(60), Required]
+		public string address { get; set; }
+
+		[MaxLength(60), Required]
+		public string location { get; set; }
 	}
 }
 

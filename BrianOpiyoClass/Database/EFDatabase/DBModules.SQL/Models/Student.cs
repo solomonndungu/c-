@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DBModules.SQL.Models
 {
@@ -7,9 +8,10 @@ namespace DBModules.SQL.Models
         [Key]
 		public Guid StudentID { get; set; } = Guid.NewGuid();
 
-		[MaxLength(100)]
+		[Required, MaxLength(100)]
 		public string Name { get; set; }
 
+		[Required]
 		public DateTime Dob { get; set; }
 
 		[MaxLength(50)]
@@ -17,7 +19,18 @@ namespace DBModules.SQL.Models
 
 		public int StreamID { get; set; }
 
-		public int SchoolId { get; set; }
+        [ForeignKey("SchoolId")]
+        public Guid SchoolId { get; set; }
+
+		public virtual School School { get; set; }
+
+        [ForeignKey("TeacherId")]
+        public Guid teacherId { get; set; }
+
+		public virtual Teacher Teacher { get; set; }
+
+
+
 	}
 }
 

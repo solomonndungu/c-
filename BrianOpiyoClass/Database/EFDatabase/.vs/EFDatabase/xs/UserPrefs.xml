@@ -1,19 +1,35 @@
 ﻿<Properties StartupConfiguration="{83176EAC-FD02-4605-B0DB-493C33C5A75F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DBModules.SQL/Models/Student.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DBModules.SQL/Models/Teacher.cs">
     <Files>
-      <File FileName="EFDatabase/Program.cs" />
-      <File FileName="EFDatabase/Startup.cs" />
-      <File FileName="DBModules.SQL/Models/Teacher.cs" />
-      <File FileName="DBModules.SQL/Models/Student.cs" Line="14" Column="1" />
-      <File FileName="DBModules.SQL/Models/Stream.cs" />
+      <File FileName="EFDatabase/Program.cs" Line="1" Column="1" />
+      <File FileName="EFDatabase/Startup.cs" Line="1" Column="1" />
+      <File FileName="DBModules.SQL/Models/Teacher.cs" Line="22" Column="15" />
+      <File FileName="DBModules.SQL/Models/Student.cs" Line="28" Column="15" />
+      <File FileName="DBModules.SQL/Models/School.cs" Line="18" Column="1" />
+      <File FileName="DBModules.SQL/Enums/GradeLevel.cs" Line="6" Column="27" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFDatabase">
+            <Node name="DBModules.SQL">
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Teacher.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="EFDatabase" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DBModules.SQL FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DBModules.SQL FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EFDatabase PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EFDatabase PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
