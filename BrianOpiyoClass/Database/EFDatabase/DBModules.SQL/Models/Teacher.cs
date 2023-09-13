@@ -21,6 +21,8 @@ namespace DBModules.SQL.Models
         [ForeignKey("SchoolId")]
         public Guid SchoolId { get; set; }
 
+		// Allows School property to be navigated from one entity to another.
+		// e.g school property loaded to teacher property
 		public virtual School School { get; set; }
 
         public GradeLevel Level { get; set; }

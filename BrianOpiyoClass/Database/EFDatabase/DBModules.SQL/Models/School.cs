@@ -24,6 +24,9 @@ namespace DBModules.SQL.Models
 
 		[MaxLength(60), Required]
 		public string location { get; set; }
+
+		// Can navigate from school to list of teachers in school
+		public virtual ICollection<Teacher> Teachers { get; set; } = new List<Teacher>();
 	}
 }
 
